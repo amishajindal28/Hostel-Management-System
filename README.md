@@ -1,2 +1,2 @@
 # Hostel-Management-System
-System to manage activities of a girls' hostel
+System created using Java, to manage activities of a girls' hostel
